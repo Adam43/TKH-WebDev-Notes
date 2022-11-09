@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Using Currying
+2. Understanding return better 
+3. Using the 3 string methods for reversing 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Using Currying
+2. Using the stack algorithm 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Building out the scoop of currying
 
 ___
 
