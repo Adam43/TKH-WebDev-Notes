@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Learned how to fetch data from different API's
+2. How to use an API key
+3. How to create a .env file
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to do a post method with an API
+2. Passing params for my API function
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Manipulating API Data
  
 
