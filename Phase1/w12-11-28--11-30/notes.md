@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. How to use props
+2. Stlying a react component 
+3. onClick with React
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. React hooks
+2. React fragments
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Creating components and using it 
 
 ___
 
