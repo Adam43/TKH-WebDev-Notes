@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Creating a youtube thumbnail 
+2. Created components
+3. Style Component 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Using .map
+2. React router
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Ternary operators
  
 
