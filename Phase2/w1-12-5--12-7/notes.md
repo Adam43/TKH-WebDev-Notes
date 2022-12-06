@@ -24,7 +24,7 @@ ___
 2. Using Props.children
 
 ✋One thing I'm having trouble understanding:
-1. Developing components 
+1. Developing components
 
 
 ___
