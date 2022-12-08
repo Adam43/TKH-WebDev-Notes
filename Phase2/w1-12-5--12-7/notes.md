@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. UseState in JS
+2. Internally Styling a component 
+3. Making a login form in react
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Errors in react
+2. Stying react component
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. UseState in JS
 
 ___
 
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Bootstrap documentation
+2. Chakra Documentation
+3. Signup form in react
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Bootsrap documentation
+2. Chakra Documentation 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Using state in
  
 
